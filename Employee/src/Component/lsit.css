@@ -1,0 +1,10 @@
+.employee-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#thala{
+    width: 200px;
+    height: 250px;
+}

@@ -1,0 +1,17 @@
+.registerPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 250px 180px;
+    gap: 40px;
+}
+
+input{
+    width: 200px;
+    height: 35px;
+}
+
+.email-section input{  
+     margin: 20px 27px; 
+}

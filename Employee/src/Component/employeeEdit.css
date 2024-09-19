@@ -1,0 +1,65 @@
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 150px 70px;
+    gap: 30px;
+}
+
+.genderSection{
+    margin: 20px 0;
+}
+
+
+.genderSection input{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.course-section{
+    margin: 20px 0;
+}
+.name-section{
+    margin: 20px 0;
+}
+.inputworld{
+    width: 300px;
+    height: 40px;
+}
+#name{
+    margin-left: 35px;
+}
+.email-section{
+    margin: 20px 0;
+}
+
+.mobile-section{
+    margin: 20px 0;
+}
+
+
+.designation-section{
+    margin: 20px 0;
+}
+
+.form{
+    gap: 30px;
+}
+
+label{
+    font-size: 16px;
+}
+
+select{
+    width: 300px;
+    height: 30px;
+}
+
+.course-section input{
+    width: 20px;
+    height: 20px;
+    border-radius: 30%;
+
+}

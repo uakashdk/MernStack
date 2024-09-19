@@ -1,0 +1,18 @@
+.loginPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 250px 180px;
+    gap: 30px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    background-color: lightgreen;
+    font-size: 20px;
+    margin-left: 30px;
+    margin: 20px 70px;
+}
+
